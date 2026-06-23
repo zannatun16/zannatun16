@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Zannatun Nur
 
-<!--
-**zannatun16/zannatun16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 CSE Student | .NET Developer | DSA Enthusiast
 
-Here are some ideas to get you started:
+> 🚀 Passionate about building software, solving algorithmic problems, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+* Data Structures & Algorithms
+* C# 
+* System Design
+* Database Management
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+* C++
+* C#
+* SQL
+
+### Development
+
+* Windows Forms
+* Arduino
+
+### Database
+
+* SQL Server
+* MySQL
+
+### Tools
+
+* Git & GitHub
+* Visual Studio
+* VS Code
+
+## 📚 Projects
+
+* 🏥 Hospital Management System
+* 🚦 Smart Traffic Light Controller
+
+## 🎯 Goals
+
+* Solve more DSA problems
+* Contribute to Open Source
+* Build scalable software systems
+
+## 📫 Connect With Me
+
+* Linked In : https://www.linkedin.com/in/zannatun-nur-b36099317/
+
+⭐ Thanks for visiting my profile!
