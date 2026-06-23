@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zannatun Nur
 
-### 💻 CSE Student | .NET Developer | DSA Enthusiast
+### 💻 CSE Student | DSA Enthusiast
 
 > 🚀 Passionate about building software, solving algorithmic problems, and learning new technologies.
 
